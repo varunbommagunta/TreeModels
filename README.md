@@ -1,5 +1,5 @@
 # TreeModels
-Repo containing  
+Repository containing  
 *Decision Tree  
 *Random Forest  
 *Bagging  
